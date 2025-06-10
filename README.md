@@ -40,7 +40,7 @@ Follow these steps to set up the project in your local environment:
 
 Clone the repository:
 
-git clone https://github.com/Utkarsh-Raj-Profile/Zerodha_Clone.git
+git clone https://github.com/21331A04I6/Zerodha.git
 Install dependencies for Backend, Frontend, and Dashboard.
 
 cd backend
